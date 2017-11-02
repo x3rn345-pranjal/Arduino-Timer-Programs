@@ -10,7 +10,7 @@ Thus gettting X = 833 as required number of steps.
 # Arduino-Timer-Project: Measuring Reaction Time
 The schematic was implemented as shown here.
 
-![Alt text](https://github.com/x3rn345-pranjal/Arduino-Timer-Programs/blob/master/Timer%20Project.jpg)
+![Alt text](https://github.com/x3rn345-pranjal/Arduino-Timer-Programs/blob/master/Timer%20Project_bb.jpg)
 
 The circuit lights the led and the buzzer at the same time providing two stimulus for reaction. The direct supply is not used instead the led and buzzer are manually controlled by state of pin 2. When the push button is pressed the code is such that the led and the buzzzer goes off and the time interval i.e the time the buzzer and led were on are noted.
 
